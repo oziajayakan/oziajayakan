@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Selamat datang di repositori saya!
+## VOICE CHANGER GOGGLE COLLAB
 
 Repositori ini berisi beberapa proyek yang saya buat maupun uji coba, termasuk:
 - 🔊 Realtime Voice Changer berbasis Colab  
